@@ -85,6 +85,17 @@ export const partnersSlice = createSlice({
     sortByInactive: (state) => {
       state.sortedPartners = [...state.partners].reverse().filter((partner) => partner.active === 0);
     },
+    sortByName: (state, sorted) => {
+      state.sortedPartners = [...state.partners].sort((a, b) => {
+        if(sorted.payload){
+          return (a.partnerName > b.partnerName) ? 1 : -1
+        }else{
+          return (a.partnerName > b.partnerName) ? -1 : 1
+        }
+        
+      }
+      )
+    },
     setCompanyNamesOptions: (state, action) => {
       state.companyNamesOptions = action.payload;
     }
@@ -117,6 +128,6 @@ export const partnersSlice = createSlice({
   },
 });
 
-export const { setLoading, setToken, addPartner, setPartnersPerPage, setCurrentPage, setActivePartner, filterPartners, setOpenForm, showAllPartners, sortByActive, sortByInactive,setCompanyNamesOptions} = partnersSlice.actions;
+export const { setLoading, setToken, addPartner, setPartnersPerPage, setCurrentPage, setActivePartner, filterPartners, setOpenForm, showAllPartners, sortByActive, sortByInactive, sortByName, setCompanyNamesOptions} = partnersSlice.actions;
 
 export default partnersSlice.reducer;

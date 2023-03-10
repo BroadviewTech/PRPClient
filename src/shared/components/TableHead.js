@@ -1,8 +1,19 @@
 import PropTypes from 'prop-types';
+import { useState } from "react"
+import { showAllPartners, sortByName, useAppDispatch } from "../../store"
 const trStylesDefault = 'text-sm leading-normal rounded-tr raleway-m rounded-tl md:h-12';
 const trColorsDefault = 'text-gray-600';
 
 export const TableHead = ({ theadItems, theadTrStyles, theadTrColors, theadTrGridStyles }) => {
+  const [sorted, setSorted] = useState(true)
+
+  const dispatch = useAppDispatch()
+  
+  const handleSortByName = () => {
+    dispatch(sortByName(sorted)); 
+    setSorted(!sorted)
+  }
+
   return (
     <thead>
       <tr className={`${ theadTrStyles || trStylesDefault } ${ theadTrColors || trColorsDefault } ${ theadTrGridStyles || '' }`}>
@@ -14,6 +25,15 @@ export const TableHead = ({ theadItems, theadTrStyles, theadTrColors, theadTrGri
             >
               { index === 0 && <span className="mr-5">#</span>}
               { label }
+              {label === "Name" && (
+              <span
+                onClick={() => {
+                  handleSortByName()
+                }}
+              >
+                {sorted ? " 🔽" : " 🔼"}
+              </span>
+            )}
             </th>
           ))
         }

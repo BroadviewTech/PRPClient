@@ -1,0 +1,866 @@
+info  - Loaded env from C:\CDL\PRPClient\.env
+> Ready on http://localhost:\\.\pipe\8fd641f2-f1b1-429a-abdd-d6864993955e
+[
+  {
+    id: 181,
+    clientId: 1872,
+    partnerId: 65,
+    partnerName: 'Saks.com',
+    email: [ [Object], [Object] ],
+    active: 1,
+    reportTime: '2022-11-29T08:00:00',
+    reportName: [ [Object], [Object], [Object] ]
+  },
+  {
+    id: 178,
+    clientId: 1168,
+    partnerId: 64,
+    partnerName: 'Brands Payroll Inc',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-10-20T13:01:00',
+    reportName: [ [Object], [Object], [Object] ]
+  },
+  {
+    id: 175,
+    clientId: 1820,
+    partnerId: 63,
+    partnerName: 'iHerb, LLC',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-10-17T16:08:00',
+    reportName: [ [Object] ]
+  },
+  {
+    id: 166,
+    clientId: 1664,
+    partnerId: 60,
+    partnerName: 'ADP- Long Island',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-10-07T23:00:00',
+    reportName: [ [Object], [Object] ]
+  },
+  {
+    id: 163,
+    clientId: 1544,
+    partnerId: 59,
+    partnerName: 'ID Logistics US  PO#363818',
+    email: [ [Object], [Object] ],
+    active: 1,
+    reportTime: '2022-10-06T20:45:00',
+    reportName: [ [Object] ]
+  },
+  {
+    id: 154,
+    clientId: 1876,
+    partnerId: 56,
+    partnerName: 'Sephora USA, Inc.',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-11-02T08:00:00',
+    reportName: [ [Object], [Object] ]
+  },
+  {
+    id: 151,
+    clientId: 1824,
+    partnerId: 55,
+    partnerName: 'Nike Inc.',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-10-05T18:05:28',
+    reportName: [ [Object], [Object], [Object] ]
+  }
+]
+[
+  {
+    id: 181,
+    clientId: 1872,
+    partnerId: 65,
+    partnerName: 'Saks.com',
+    email: [ [Object], [Object] ],
+    active: 1,
+    reportTime: '2022-11-29T08:00:00',
+    reportName: [ [Object], [Object], [Object] ]
+  },
+  {
+    id: 178,
+    clientId: 1168,
+    partnerId: 64,
+    partnerName: 'Brands Payroll Inc',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-10-20T13:01:00',
+    reportName: [ [Object], [Object], [Object] ]
+  },
+  {
+    id: 175,
+    clientId: 1820,
+    partnerId: 63,
+    partnerName: 'iHerb, LLC',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-10-17T16:08:00',
+    reportName: [ [Object] ]
+  },
+  {
+    id: 166,
+    clientId: 1664,
+    partnerId: 60,
+    partnerName: 'ADP- Long Island',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-10-07T23:00:00',
+    reportName: [ [Object], [Object] ]
+  },
+  {
+    id: 163,
+    clientId: 1544,
+    partnerId: 59,
+    partnerName: 'ID Logistics US  PO#363818',
+    email: [ [Object], [Object] ],
+    active: 1,
+    reportTime: '2022-10-06T20:45:00',
+    reportName: [ [Object] ]
+  },
+  {
+    id: 154,
+    clientId: 1876,
+    partnerId: 56,
+    partnerName: 'Sephora USA, Inc.',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-11-02T08:00:00',
+    reportName: [ [Object], [Object] ]
+  },
+  {
+    id: 151,
+    clientId: 1824,
+    partnerId: 55,
+    partnerName: 'Nike Inc.',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-10-05T18:05:28',
+    reportName: [ [Object], [Object], [Object] ]
+  }
+]
+[
+  {
+    id: 181,
+    clientId: 1872,
+    partnerId: 65,
+    partnerName: 'Saks.com',
+    email: [ [Object], [Object] ],
+    active: 1,
+    reportTime: '2022-11-29T08:00:00',
+    reportName: [ [Object], [Object], [Object] ]
+  },
+  {
+    id: 178,
+    clientId: 1168,
+    partnerId: 64,
+    partnerName: 'Brands Payroll Inc',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-10-20T13:01:00',
+    reportName: [ [Object], [Object], [Object] ]
+  },
+  {
+    id: 175,
+    clientId: 1820,
+    partnerId: 63,
+    partnerName: 'iHerb, LLC',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-10-17T16:08:00',
+    reportName: [ [Object] ]
+  },
+  {
+    id: 166,
+    clientId: 1664,
+    partnerId: 60,
+    partnerName: 'ADP- Long Island',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-10-07T23:00:00',
+    reportName: [ [Object], [Object] ]
+  },
+  {
+    id: 163,
+    clientId: 1544,
+    partnerId: 59,
+    partnerName: 'ID Logistics US  PO#363818',
+    email: [ [Object], [Object] ],
+    active: 1,
+    reportTime: '2022-10-06T20:45:00',
+    reportName: [ [Object] ]
+  },
+  {
+    id: 154,
+    clientId: 1876,
+    partnerId: 56,
+    partnerName: 'Sephora USA, Inc.',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-11-02T08:00:00',
+    reportName: [ [Object], [Object] ]
+  },
+  {
+    id: 151,
+    clientId: 1824,
+    partnerId: 55,
+    partnerName: 'Nike Inc.',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-10-05T18:05:28',
+    reportName: [ [Object], [Object], [Object] ]
+  }
+]
+[
+  {
+    id: 181,
+    clientId: 1872,
+    partnerId: 65,
+    partnerName: 'Saks.com',
+    email: [ [Object], [Object] ],
+    active: 1,
+    reportTime: '2022-11-29T08:00:00',
+    reportName: [ [Object], [Object], [Object] ]
+  },
+  {
+    id: 178,
+    clientId: 1168,
+    partnerId: 64,
+    partnerName: 'Brands Payroll Inc',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-10-20T13:01:00',
+    reportName: [ [Object], [Object], [Object] ]
+  },
+  {
+    id: 175,
+    clientId: 1820,
+    partnerId: 63,
+    partnerName: 'iHerb, LLC',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-10-17T16:08:00',
+    reportName: [ [Object] ]
+  },
+  {
+    id: 166,
+    clientId: 1664,
+    partnerId: 60,
+    partnerName: 'ADP- Long Island',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-10-07T23:00:00',
+    reportName: [ [Object], [Object] ]
+  },
+  {
+    id: 163,
+    clientId: 1544,
+    partnerId: 59,
+    partnerName: 'ID Logistics US  PO#363818',
+    email: [ [Object], [Object] ],
+    active: 1,
+    reportTime: '2022-10-06T20:45:00',
+    reportName: [ [Object] ]
+  },
+  {
+    id: 154,
+    clientId: 1876,
+    partnerId: 56,
+    partnerName: 'Sephora USA, Inc.',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-11-02T08:00:00',
+    reportName: [ [Object], [Object] ]
+  },
+  {
+    id: 151,
+    clientId: 1824,
+    partnerId: 55,
+    partnerName: 'Nike Inc.',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-10-05T18:05:28',
+    reportName: [ [Object], [Object], [Object] ]
+  }
+]
+[
+  {
+    id: 181,
+    clientId: 1872,
+    partnerId: 65,
+    partnerName: 'Saks.com',
+    email: [ [Object], [Object] ],
+    active: 1,
+    reportTime: '2022-11-29T08:00:00',
+    reportName: [ [Object], [Object], [Object] ]
+  },
+  {
+    id: 178,
+    clientId: 1168,
+    partnerId: 64,
+    partnerName: 'Brands Payroll Inc',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-10-20T13:01:00',
+    reportName: [ [Object], [Object], [Object] ]
+  },
+  {
+    id: 175,
+    clientId: 1820,
+    partnerId: 63,
+    partnerName: 'iHerb, LLC',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-10-17T16:08:00',
+    reportName: [ [Object] ]
+  },
+  {
+    id: 166,
+    clientId: 1664,
+    partnerId: 60,
+    partnerName: 'ADP- Long Island',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-10-07T23:00:00',
+    reportName: [ [Object], [Object] ]
+  },
+  {
+    id: 163,
+    clientId: 1544,
+    partnerId: 59,
+    partnerName: 'ID Logistics US  PO#363818',
+    email: [ [Object], [Object] ],
+    active: 1,
+    reportTime: '2022-10-06T20:45:00',
+    reportName: [ [Object] ]
+  },
+  {
+    id: 154,
+    clientId: 1876,
+    partnerId: 56,
+    partnerName: 'Sephora USA, Inc.',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-11-02T08:00:00',
+    reportName: [ [Object], [Object] ]
+  },
+  {
+    id: 151,
+    clientId: 1824,
+    partnerId: 55,
+    partnerName: 'Nike Inc.',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-10-05T18:05:28',
+    reportName: [ [Object], [Object], [Object] ]
+  }
+]
+[
+  {
+    id: 181,
+    clientId: 1872,
+    partnerId: 65,
+    partnerName: 'Saks.com',
+    email: [ [Object], [Object] ],
+    active: 1,
+    reportTime: '2022-11-29T08:00:00',
+    reportName: [ [Object], [Object], [Object] ]
+  },
+  {
+    id: 178,
+    clientId: 1168,
+    partnerId: 64,
+    partnerName: 'Brands Payroll Inc',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-10-20T13:01:00',
+    reportName: [ [Object], [Object], [Object] ]
+  },
+  {
+    id: 175,
+    clientId: 1820,
+    partnerId: 63,
+    partnerName: 'iHerb, LLC',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-10-17T16:08:00',
+    reportName: [ [Object] ]
+  },
+  {
+    id: 166,
+    clientId: 1664,
+    partnerId: 60,
+    partnerName: 'ADP- Long Island',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-10-07T23:00:00',
+    reportName: [ [Object], [Object] ]
+  },
+  {
+    id: 163,
+    clientId: 1544,
+    partnerId: 59,
+    partnerName: 'ID Logistics US  PO#363818',
+    email: [ [Object], [Object] ],
+    active: 1,
+    reportTime: '2022-10-06T20:45:00',
+    reportName: [ [Object] ]
+  },
+  {
+    id: 154,
+    clientId: 1876,
+    partnerId: 56,
+    partnerName: 'Sephora USA, Inc.',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-11-02T08:00:00',
+    reportName: [ [Object], [Object] ]
+  },
+  {
+    id: 151,
+    clientId: 1824,
+    partnerId: 55,
+    partnerName: 'Nike Inc.',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-10-05T18:05:28',
+    reportName: [ [Object], [Object], [Object] ]
+  }
+]
+[
+  {
+    id: 181,
+    clientId: 1872,
+    partnerId: 65,
+    partnerName: 'Saks.com',
+    email: [ [Object], [Object] ],
+    active: 1,
+    reportTime: '2022-11-29T08:00:00',
+    reportName: [ [Object], [Object], [Object] ]
+  },
+  {
+    id: 178,
+    clientId: 1168,
+    partnerId: 64,
+    partnerName: 'Brands Payroll Inc',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-10-20T13:01:00',
+    reportName: [ [Object], [Object], [Object] ]
+  },
+  {
+    id: 175,
+    clientId: 1820,
+    partnerId: 63,
+    partnerName: 'iHerb, LLC',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-10-17T16:08:00',
+    reportName: [ [Object] ]
+  },
+  {
+    id: 166,
+    clientId: 1664,
+    partnerId: 60,
+    partnerName: 'ADP- Long Island',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-10-07T23:00:00',
+    reportName: [ [Object], [Object] ]
+  },
+  {
+    id: 163,
+    clientId: 1544,
+    partnerId: 59,
+    partnerName: 'ID Logistics US  PO#363818',
+    email: [ [Object], [Object] ],
+    active: 1,
+    reportTime: '2022-10-06T20:45:00',
+    reportName: [ [Object] ]
+  },
+  {
+    id: 154,
+    clientId: 1876,
+    partnerId: 56,
+    partnerName: 'Sephora USA, Inc.',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-11-02T08:00:00',
+    reportName: [ [Object], [Object] ]
+  },
+  {
+    id: 151,
+    clientId: 1824,
+    partnerId: 55,
+    partnerName: 'Nike Inc.',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-10-05T18:05:28',
+    reportName: [ [Object], [Object], [Object] ]
+  }
+]
+[
+  {
+    id: 181,
+    clientId: 1872,
+    partnerId: 65,
+    partnerName: 'Saks.com',
+    email: [ [Object], [Object] ],
+    active: 1,
+    reportTime: '2022-11-29T08:00:00',
+    reportName: [ [Object], [Object], [Object] ]
+  },
+  {
+    id: 178,
+    clientId: 1168,
+    partnerId: 64,
+    partnerName: 'Brands Payroll Inc',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-10-20T13:01:00',
+    reportName: [ [Object], [Object], [Object] ]
+  },
+  {
+    id: 175,
+    clientId: 1820,
+    partnerId: 63,
+    partnerName: 'iHerb, LLC',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-10-17T16:08:00',
+    reportName: [ [Object] ]
+  },
+  {
+    id: 166,
+    clientId: 1664,
+    partnerId: 60,
+    partnerName: 'ADP- Long Island',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-10-07T23:00:00',
+    reportName: [ [Object], [Object] ]
+  },
+  {
+    id: 163,
+    clientId: 1544,
+    partnerId: 59,
+    partnerName: 'ID Logistics US  PO#363818',
+    email: [ [Object], [Object] ],
+    active: 1,
+    reportTime: '2022-10-06T20:45:00',
+    reportName: [ [Object] ]
+  },
+  {
+    id: 154,
+    clientId: 1876,
+    partnerId: 56,
+    partnerName: 'Sephora USA, Inc.',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-11-02T08:00:00',
+    reportName: [ [Object], [Object] ]
+  },
+  {
+    id: 151,
+    clientId: 1824,
+    partnerId: 55,
+    partnerName: 'Nike Inc.',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-10-05T18:05:28',
+    reportName: [ [Object], [Object], [Object] ]
+  }
+]
+[
+  {
+    id: 181,
+    clientId: 1872,
+    partnerId: 65,
+    partnerName: 'Saks.com',
+    email: [ [Object], [Object] ],
+    active: 1,
+    reportTime: '2022-11-29T08:00:00',
+    reportName: [ [Object], [Object], [Object] ]
+  },
+  {
+    id: 178,
+    clientId: 1168,
+    partnerId: 64,
+    partnerName: 'Brands Payroll Inc',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-10-20T13:01:00',
+    reportName: [ [Object], [Object], [Object] ]
+  },
+  {
+    id: 175,
+    clientId: 1820,
+    partnerId: 63,
+    partnerName: 'iHerb, LLC',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-10-17T16:08:00',
+    reportName: [ [Object] ]
+  },
+  {
+    id: 166,
+    clientId: 1664,
+    partnerId: 60,
+    partnerName: 'ADP- Long Island',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-10-07T23:00:00',
+    reportName: [ [Object], [Object] ]
+  },
+  {
+    id: 163,
+    clientId: 1544,
+    partnerId: 59,
+    partnerName: 'ID Logistics US  PO#363818',
+    email: [ [Object], [Object] ],
+    active: 1,
+    reportTime: '2022-10-06T20:45:00',
+    reportName: [ [Object] ]
+  },
+  {
+    id: 154,
+    clientId: 1876,
+    partnerId: 56,
+    partnerName: 'Sephora USA, Inc.',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-11-02T08:00:00',
+    reportName: [ [Object], [Object] ]
+  },
+  {
+    id: 151,
+    clientId: 1824,
+    partnerId: 55,
+    partnerName: 'Nike Inc.',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-10-05T18:05:28',
+    reportName: [ [Object], [Object], [Object] ]
+  }
+]
+[
+  {
+    id: 181,
+    clientId: 1872,
+    partnerId: 65,
+    partnerName: 'Saks.com',
+    email: [ [Object], [Object] ],
+    active: 1,
+    reportTime: '2022-11-29T08:00:00',
+    reportName: [ [Object], [Object], [Object] ]
+  },
+  {
+    id: 178,
+    clientId: 1168,
+    partnerId: 64,
+    partnerName: 'Brands Payroll Inc',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-10-20T13:01:00',
+    reportName: [ [Object], [Object], [Object] ]
+  },
+  {
+    id: 175,
+    clientId: 1820,
+    partnerId: 63,
+    partnerName: 'iHerb, LLC',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-10-17T16:08:00',
+    reportName: [ [Object] ]
+  },
+  {
+    id: 166,
+    clientId: 1664,
+    partnerId: 60,
+    partnerName: 'ADP- Long Island',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-10-07T23:00:00',
+    reportName: [ [Object], [Object] ]
+  },
+  {
+    id: 163,
+    clientId: 1544,
+    partnerId: 59,
+    partnerName: 'ID Logistics US  PO#363818',
+    email: [ [Object], [Object] ],
+    active: 1,
+    reportTime: '2022-10-06T20:45:00',
+    reportName: [ [Object] ]
+  },
+  {
+    id: 154,
+    clientId: 1876,
+    partnerId: 56,
+    partnerName: 'Sephora USA, Inc.',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-11-02T08:00:00',
+    reportName: [ [Object], [Object] ]
+  },
+  {
+    id: 151,
+    clientId: 1824,
+    partnerId: 55,
+    partnerName: 'Nike Inc.',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-10-05T18:05:28',
+    reportName: [ [Object], [Object], [Object] ]
+  }
+]
+[
+  {
+    id: 181,
+    clientId: 1872,
+    partnerId: 65,
+    partnerName: 'Saks.com',
+    email: [ [Object], [Object] ],
+    active: 1,
+    reportTime: '2022-11-29T08:00:00',
+    reportName: [ [Object], [Object], [Object] ]
+  },
+  {
+    id: 178,
+    clientId: 1168,
+    partnerId: 64,
+    partnerName: 'Brands Payroll Inc',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-10-20T13:01:00',
+    reportName: [ [Object], [Object], [Object] ]
+  },
+  {
+    id: 175,
+    clientId: 1820,
+    partnerId: 63,
+    partnerName: 'iHerb, LLC',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-10-17T16:08:00',
+    reportName: [ [Object] ]
+  },
+  {
+    id: 166,
+    clientId: 1664,
+    partnerId: 60,
+    partnerName: 'ADP- Long Island',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-10-07T23:00:00',
+    reportName: [ [Object], [Object] ]
+  },
+  {
+    id: 163,
+    clientId: 1544,
+    partnerId: 59,
+    partnerName: 'ID Logistics US  PO#363818',
+    email: [ [Object], [Object] ],
+    active: 1,
+    reportTime: '2022-10-06T20:45:00',
+    reportName: [ [Object] ]
+  },
+  {
+    id: 154,
+    clientId: 1876,
+    partnerId: 56,
+    partnerName: 'Sephora USA, Inc.',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-11-02T08:00:00',
+    reportName: [ [Object], [Object] ]
+  },
+  {
+    id: 151,
+    clientId: 1824,
+    partnerId: 55,
+    partnerName: 'Nike Inc.',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-10-05T18:05:28',
+    reportName: [ [Object], [Object], [Object] ]
+  }
+]
+[
+  {
+    id: 181,
+    clientId: 1872,
+    partnerId: 65,
+    partnerName: 'Saks.com',
+    email: [ [Object], [Object] ],
+    active: 1,
+    reportTime: '2022-11-29T08:00:00',
+    reportName: [ [Object], [Object], [Object] ]
+  },
+  {
+    id: 178,
+    clientId: 1168,
+    partnerId: 64,
+    partnerName: 'Brands Payroll Inc',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-10-20T13:01:00',
+    reportName: [ [Object], [Object], [Object] ]
+  },
+  {
+    id: 175,
+    clientId: 1820,
+    partnerId: 63,
+    partnerName: 'iHerb, LLC',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-10-17T16:08:00',
+    reportName: [ [Object] ]
+  },
+  {
+    id: 166,
+    clientId: 1664,
+    partnerId: 60,
+    partnerName: 'ADP- Long Island',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-10-07T23:00:00',
+    reportName: [ [Object], [Object] ]
+  },
+  {
+    id: 163,
+    clientId: 1544,
+    partnerId: 59,
+    partnerName: 'ID Logistics US  PO#363818',
+    email: [ [Object], [Object] ],
+    active: 1,
+    reportTime: '2022-10-06T20:45:00',
+    reportName: [ [Object] ]
+  },
+  {
+    id: 154,
+    clientId: 1876,
+    partnerId: 56,
+    partnerName: 'Sephora USA, Inc.',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-11-02T08:00:00',
+    reportName: [ [Object], [Object] ]
+  },
+  {
+    id: 151,
+    clientId: 1824,
+    partnerId: 55,
+    partnerName: 'Nike Inc.',
+    email: [ [Object] ],
+    active: 1,
+    reportTime: '2022-10-05T18:05:28',
+    reportName: [ [Object], [Object], [Object] ]
+  }
+]
