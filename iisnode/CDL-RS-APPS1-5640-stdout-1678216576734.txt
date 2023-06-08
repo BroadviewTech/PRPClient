@@ -1,2 +1,0 @@
-info  - Loaded env from C:\CDL\PRPClient\.env
-> Ready on http://localhost:\\.\pipe\080217b8-ad93-4213-bc93-81d727746e52

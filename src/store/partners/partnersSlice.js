@@ -88,9 +88,9 @@ export const partnersSlice = createSlice({
     sortByName: (state, sorted) => {
       state.sortedPartners = [...state.partners].sort((a, b) => {
         if(sorted.payload){
-          return (a.partnerName > b.partnerName) ? 1 : -1
+          return (a.partnerName.toLowerCase() > b.partnerName.toLowerCase()) ? 1 : -1
         }else{
-          return (a.partnerName > b.partnerName) ? -1 : 1
+          return (a.partnerName.toLowerCase() > b.partnerName.toLowerCase()) ? -1 : 1
         }
         
       }
