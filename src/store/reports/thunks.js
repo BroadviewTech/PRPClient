@@ -1,6 +1,6 @@
 import { fetchPartner, fetchPartnerQuery } from '../../shared/helpers/fetch';
 
-const baseURL = 'https://apps.cdldelivers.com/prpserver/api/report';
+const baseURL =process.env.baseURL + '/api/report';
 
 const addReportTypeObj = {
   "report_type_id": 1234567,
@@ -46,6 +46,14 @@ export const getExceptionReport = async(inputDate, clientID) => {
   const response = await fetchPartnerQuery(baseURL, `getexceptionreport?inputDate=${inputDate}&clientID=${clientID}`);
   const body = await response.json();
   console.log('getExceptionReport', body);
+}
+
+/* GET 2DAY REPORT */
+
+export const get2DayReport = async(inputDate, clientID) => {
+  const response = await fetchPartnerQuery(baseURL, `Get2DaysReport?inputDate=${inputDate}&clientID=${clientID}`);
+  const body = await response.json();
+  console.log('get2DayReport', body);
 }
 
 /* ADD REPORT TYPE */

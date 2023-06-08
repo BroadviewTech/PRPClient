@@ -1,7 +1,7 @@
-const baseURL = 'https://apps.cdldelivers.com/prpserver';
+const baseURL = process.env.baseURL;
 
 export const getToken = async() => {
-  const tokenUrl = 'https://apps.cdldelivers.com/authentication/connect/token';
+  const tokenUrl = process.env.tokenUrl;
   const tokenResponse = await fetch(tokenUrl, {
     method: 'POST',
     headers: {

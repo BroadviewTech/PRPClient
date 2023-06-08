@@ -13,5 +13,10 @@ export const cardLinks = [
     title: 'Exception Report',
     description: 'Returns data for exceptions logged on orders the previous day.',
     iconName: 'exception_icon'
+  }, 
+  {
+    title: '2Day Report',
+    description: 'Returns data for exceptions logged on orders the previous day.',
+    iconName: 'day_icon'
   }
 ]
