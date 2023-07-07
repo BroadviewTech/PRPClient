@@ -3,7 +3,7 @@ const isProd = process.env.NODE_ENV === 'production'
 const node_env = process.env.STATE
 const prodEnv = isProd && node_env === 'production' 
 
-const prodPath = prodEnv? "/prp": "/Xcelerator/prp"
+const prodPath = prodEnv? "/prp": node_env == 'staging'? "/Xcelerator/prp" : ''
 
 
 const nextConfig = {
